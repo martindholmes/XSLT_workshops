@@ -6,6 +6,8 @@
   xpath-default-namespace="http://www.tei-c.org/ns/1.0"
   exclude-result-prefixes="#all">
   
+  <xsl:output method="xml"/>
+  
   <xsl:template match="/">
     <html>
       <head>
@@ -34,7 +36,15 @@
   </xsl:template>
   
   <xsl:template match="l">
-    <p class="metrical_line"><xsl:apply-templates select="child::node()"/></p>
+    <p class="metrical_line">
+      <xsl:apply-templates select="child::node()"/>
+    </p>
+  </xsl:template>
+  
+  <xsl:template match="note">
+    <p style="font-family: serif; font-size: small; text-align: right;">
+      <xsl:apply-templates/>
+    </p>
   </xsl:template>
   
 </xsl:stylesheet>
