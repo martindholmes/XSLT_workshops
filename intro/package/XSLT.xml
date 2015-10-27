@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_lite.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Oklahoma Spoof</title>
+        <respStmt>
+          <resp when="1943">composer</resp>
+          <name>Richard Rodgers</name>
+        </respStmt>
+        <respStmt>
+          <resp when="1943">original lyrics</resp>
+          <name>Oscar Hammerstein II</name>
+        </respStmt>
+        <respStmt>
+          <resp when="2015">spoof lyrics</resp>
+          <name>Syd Bauman</name>
+        </respStmt>
+      </titleStmt>
+      <publicationStmt>
+        <p>MOOC</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Born digital.</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <lg>
+        <head>XSLT</head>
+        <l>X-S-L-T can manipulate your X-M-L,</l>
+        <l>But the input tree,</l>
+        <l>Well-formed must be,</l>
+        <l>Or the process won’t go very well.</l>
+        <note>To the tune of <title>Oklahoma</title>
+          by Rodgers &amp; Hammerstein</note>
+      </lg>
+    </body>
+  </text>
+</TEI>

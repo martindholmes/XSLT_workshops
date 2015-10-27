@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lg xmlns="http://www.tei-c.org/ns/1.0">
+  <head>XSLT</head>
+  <l>X-S-L-T can manipulate your X-M-L,</l>
+  <l>But the input tree,</l>
+  <l>Well-formed must be,</l>
+  <l>Or the process won’t go very well.</l>
+  <note>To the tune of <title>Oklahoma</title>
+    by Rodgers &amp; Hammerstein</note>
+</lg>
