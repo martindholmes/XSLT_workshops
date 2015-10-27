@@ -1,0 +1,68 @@
+STATISTICS FOR HAMLET
+    
+    Number of speeches: 1137
+	Number of acts: 5
+    Number of scenes: 20
+      
+    Words of spoken text in each scene:
+    
+    Act 1, Scene 1: 1322 
+    Act 1, Scene 2: 2034 
+    Act 1, Scene 3: 1079 
+    Act 1, Scene 4: 715 
+    Act 1, Scene 5: 1448 
+    Act 2, Scene 1: 942 
+    Act 2, Scene 2: 4649 
+    Act 3, Scene 1: 1505 
+    Act 3, Scene 2: 2930 
+    Act 3, Scene 3: 789 
+    Act 3, Scene 4: 1738 
+    Act 4, Scene 1: 355 
+    Act 4, Scene 2: 226 
+    Act 4, Scene 3: 532 
+    Act 4, Scene 4: 508 
+    Act 4, Scene 5: 1582 
+    Act 4, Scene 6: 287 
+    Act 4, Scene 7: 1583 
+    Act 5, Scene 1: 2250 
+    Act 5, Scene 2: 3133
+      
+    Average word-length for each character:
+    
+    Claudius: 4.19 
+    Hamlet: 4.07 
+    Polonius: 4.05 
+    Horatio: 4.06 
+    Laertes2: 4.08 
+    Voltimand: 4.64 
+    Cornelius1: 3.50 
+    Rosencrantz: 4.00 
+    Guildenstern: 4.01 
+    Osric: 4.24 
+    ham-gent.: 4.46 
+    ham-first-priest.: 4.53 
+    Marcellus1: 4.09 
+    Barnardo: 4.07 
+    Francisco: 4.13 
+    Reynaldo: 3.46 
+    sha-ham-role17: NaN 
+    ham-first-play.: 4.34 
+    ham-first-clo.: 3.87 
+    ham-sec.-clo.: 4.17 
+    Fortinbras: 4.03 
+    ham-cap.: 3.69 
+    sha-ham-role23: NaN 
+    ham-first-amb.: 4.75 
+    Gertrude: 4.11 
+    Ophelia: 3.89 
+    ham-all: 5.45 
+    ham-danes.: 3.08 
+    ham-pro.: 4.50 
+    ham-p.-king.: 4.42 
+    ham-p.-queen.: 4.03 
+    Lucianus: 5.60 
+    ham-serv.: 4.30 
+    ham-sail.: 3.64 
+    ham-mess.: 4.00 
+    ham-lord.: 4.04 
+    ham-ghost.: 4.20
