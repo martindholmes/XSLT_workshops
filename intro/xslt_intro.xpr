@@ -4,10 +4,25 @@
         <filters directoryPatterns="" filePatterns="" positiveFilePatterns="" showHiddenFiles="false"/>
         <options>
             <serialized version="17.0" xml:space="preserve">
-                <map>
+                <serializableOrderedMap>
                     <entry>
                         <String>scenario.associations</String>
                         <scenarioAssociation-array>
+                            <scenarioAssociation>
+                                <field name="url">
+                                    <String>package/hamlet.xml</String>
+                                </field>
+                                <field name="scenarioIds">
+                                    <list>
+                                        <String>hamlet_statistics</String>
+                                    </list>
+                                </field>
+                                <field name="scenarioTypes">
+                                    <list>
+                                        <String>XSL</String>
+                                    </list>
+                                </field>
+                            </scenarioAssociation>
                             <scenarioAssociation>
                                 <field name="url">
                                     <String>${pd}/package/hamlet.xml</String>
@@ -204,7 +219,7 @@
                             </scenario>
                         </scenario-array>
                     </entry>
-                </map>
+                </serializableOrderedMap>
             </serialized>
         </options>
     </meta>
