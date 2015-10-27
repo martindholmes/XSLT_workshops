@@ -42,7 +42,7 @@
   </xsl:template>
   
   <xsl:template match="note">
-    <p style="font-family: serif; font-size: small; text-align: right;">
+    <p style="font-size:small; text-align:right;">
       <xsl:apply-templates/>
     </p>
   </xsl:template>
