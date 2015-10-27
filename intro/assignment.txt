@@ -1,0 +1,16 @@
+Assignment:
+  * We've provided a slightly more complex version
+    of the 'snippet.xml' ...
+  * Open the 'snippet-task.xml' file
+  * Figure out which is the new element
+  * Open the 'snippet.xslt' file
+  * Do the following:
+    a) Add a new template that handles the new
+       element, showing it in BOLD in the output
+    b) Change the template that handles the <title>
+        element so that instead of using quot...
+        <cite>
+    c) save your improved program as 'snippet-task.xslt'
+    d) test this in the debugger
+    e) once you have it working, make a transformation scenario
+        for it
