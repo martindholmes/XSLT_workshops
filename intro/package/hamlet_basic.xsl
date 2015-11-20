@@ -31,8 +31,6 @@
       </body>
     </html>
   </xsl:template>
-
-<!-- This is a test. -->
   
 <!--  We suppress the teiHeader; we don't need to output this. -->
   <xsl:template match="teiHeader"/>
