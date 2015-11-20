@@ -1,0 +1,5 @@
+Notes for first basic XSLT task:
+
+1. We present the _basic.xslt file piece by piece and they follow along.
+
+2. We assign as a task the addition of handlers for front, castList and castItem; we instruct them to suppress castGroup for the moment.
