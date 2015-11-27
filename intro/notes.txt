@@ -1,6 +1,9 @@
 TTD list:
 
-Syd: search for snippet-task.xml on laptop; if not there, try to remember what's supposed to be in it.
+Syd: search for snippet-task.xml on laptop; if not there, try to
+remember what's supposed to be in it. ANSWER: it is in the package/
+directory. (And has been there since 10-27, no idea why we didn't see
+it last week.)
 
 Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
 
