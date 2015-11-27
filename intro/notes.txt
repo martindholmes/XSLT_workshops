@@ -4,7 +4,7 @@ Syd: search for snippet-task.xml on laptop; if not there, try to remember what's
 
 Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
 
-Martin: Find and test desktop recording software. 
+#Martin: Find and test desktop recording software. DONE: KAZAM looks good, and I've tested it. However, the audio quality is terrible. That could be because I have the video camera turned on at the same time, though.
 
 Martin: Check video alignment with slides.
 
