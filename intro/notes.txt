@@ -1,7 +1,9 @@
-<<<<<<< HEAD
 TTD list:
 
-Syd: search for snippet-task.xml on laptop; if not there, try to remember what's supposed to be in it.
+Syd: search for snippet-task.xml on laptop; if not there, try to
+remember what's supposed to be in it. ANSWER: it is in the package/
+directory. (And has been there since 10-27, no idea why we didn't see
+it last week.)
 
 Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
 
@@ -16,25 +18,3 @@ Notes for first basic XSLT task:
 2. We assign as a task the addition of handlers for front, castList and castItem; we instruct them to suppress castGroup for the moment.
 
 3. Supplementary assignment: handle castGroup.
-=======
-TTD list:
-
-Syd: search for snippet-task.xml on laptop; if not there, try to
-remember what's supposed to be in it. ANSWER: it is in the package/
-directory. (And has been there since 10-27, no idea why we didn't see
-it last week.)
-
-Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
-
-Martin: Find and test desktop recording software. 
-
-Martin: Check video alignment with slides.
-
-Notes for first basic XSLT task:
-
-1. We present the _basic.xslt file piece by piece and they follow along.
-
-2. We assign as a task the addition of handlers for front, castList and castItem; we instruct them to suppress castGroup for the moment.
-
-3. Supplementary assignment: handle castGroup.
->>>>>>> a45613f5aa59e5fc9ab58f39f3d6e65b8c8e7096
