@@ -5,9 +5,13 @@ remember what's supposed to be in it. ANSWER: it is in the package/
 directory. (And has been there since 10-27, no idea why we didn't see
 it last week.)
 
-Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
+#Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
 
-#Martin: Find and test desktop recording software. DONE: KAZAM looks good, and vokoscreen is even better. You need good USB audio for the microphone; when I tried with an analog mic I got horrible results with both pieces of software. next question: what to use for post-processing?
+Martin: Use Vokoscreen to create the first screencast walking through the hamlet_basic.xsl.
+
+Syd: Try this too if it can work on 12.04.
+
+Martin: Identify a usable Linux video editor.
 
 Martin: Check video alignment with slides.
 
