@@ -59,7 +59,9 @@
   
   <!-- From speaker elements, we use bold.  -->
   <xsl:template match="speaker">
-    <b><xsl:apply-templates/>: </b>
+    <b><xsl:apply-templates/>
+      <xsl:text>: </xsl:text>
+    </b>
   </xsl:template>
   
   <!-- From lines and anonymous blocks, we output the 
