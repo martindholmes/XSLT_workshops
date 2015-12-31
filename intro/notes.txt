@@ -9,6 +9,14 @@ it last week.)
 
 Martin: Use Vokoscreen to create the first screencast walking through the hamlet_basic.xsl.
 
+Successful manipulation settings for size:
+
+1. Use Handbrake with H264 video and AAC (ffmpeg), bitrate 64, to create a second .mkv.
+
+2. Repackage as mp4 with avconv (avconv -i test2.mkv -vcodec copy -acodec copy test.mp4). avconv is basically ffmpeg packaged by Ubuntu, I think. If ffmpeg is available for install, substitute ffmpeg in the command.
+
+The result is small, and works directly in Firefox and in Chrome.
+
 Syd: Try this too if it can work on 12.04.
 
 Martin: Identify a usable Linux video editor.
