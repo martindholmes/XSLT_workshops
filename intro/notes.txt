@@ -1,32 +1,7 @@
 TTD list:
 
-Syd: search for snippet-task.xml on laptop; if not there, try to
-remember what's supposed to be in it. ANSWER: it is in the package/
-directory. (And has been there since 10-27, no idea why we didn't see
-it last week.)
+In Slideset #7, Slide #7: The task (#2) requires things that we haven't yet taught (either xsl:if or not()). We need to teach those two concepts at that point, using different examples, then assign the task; finally, a walkthrough video showing how it's actually done will help.
 
-#Syd: make slideset (intro/summary) for hamlet_basic.xsl walkthrough.
+Following on from Slideset #7: The students have been asked to list some things they didn't know how to do; we could provide our own list, and then work through demos and assignments based on that list. We should both start making that list here in the notes file.
 
-Martin: Use Vokoscreen to create the first screencast walking through the hamlet_basic.xsl.
 
-Successful manipulation settings for size:
-
-1. Use Handbrake with H264 video and AAC (ffmpeg), bitrate 64, to create a second .mkv.
-
-2. Repackage as mp4 with avconv (avconv -i test2.mkv -vcodec copy -acodec copy test.mp4). avconv is basically ffmpeg packaged by Ubuntu, I think. If ffmpeg is available for install, substitute ffmpeg in the command.
-
-The result is small, and works directly in Firefox and in Chrome.
-
-Syd: Try this too if it can work on 12.04.
-
-Martin: Identify a usable Linux video editor.
-
-Martin: Check video alignment with slides.
-
-Notes for first basic XSLT task:
-
-1. We present the _basic.xslt file piece by piece and they follow along.
-
-2. We assign as a task the addition of handlers for front, castList and castItem; we instruct them to suppress castGroup for the moment.
-
-3. Supplementary assignment: handle castGroup.
